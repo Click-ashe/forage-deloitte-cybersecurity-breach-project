@@ -1,3 +1,4 @@
+![Project Banner] banner.png
 # Deloitte Cybersecurity Web Activity Investigation (Daikibo)
 
 This project is based on the Deloitte Forage Cybersecurity Virtual Experience. It simulates an investigation into a suspected data leak from Daikibo’s internal manufacturing status dashboard by analyzing web activity logs.
